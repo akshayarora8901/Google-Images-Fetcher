@@ -5,7 +5,7 @@
   "main": "server/app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akshayarora8901/Google-Images-Fetcher.git"
+    "url": "git+https://akshayarora8901@github.com/akshayarora8901/Google-Images-Fetcher.git"
   },
   "author": "Akshay Arora",
   "license": "ISC",
